@@ -4,6 +4,6 @@
 
 #start-lan.bat 局域网联机
 
-#start.bat 初始化内网穿透，远程联机
+#start.bat 初始化内网穿透，远程联机（手动改为穿透软件映射的ip）
 
 
